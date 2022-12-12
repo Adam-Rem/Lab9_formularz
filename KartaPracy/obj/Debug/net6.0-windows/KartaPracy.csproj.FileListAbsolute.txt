@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\KartaPracy\bin\Debug\net6.0-windows\KartaPracy.exe
+C:\Users\student\source\repos\KartaPracy\bin\Debug\net6.0-windows\KartaPracy.deps.json
+C:\Users\student\source\repos\KartaPracy\bin\Debug\net6.0-windows\KartaPracy.runtimeconfig.json
+C:\Users\student\source\repos\KartaPracy\bin\Debug\net6.0-windows\KartaPracy.dll
+C:\Users\student\source\repos\KartaPracy\bin\Debug\net6.0-windows\KartaPracy.pdb
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.Form1.resources
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.csproj.GenerateResource.cache
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.AssemblyInfo.cs
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.dll
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\refint\KartaPracy.dll
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.pdb
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\KartaPracy.genruntimeconfig.cache
+C:\Users\student\source\repos\KartaPracy\obj\Debug\net6.0-windows\ref\KartaPracy.dll
